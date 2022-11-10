@@ -4,22 +4,22 @@
     overflow: hidden;
 }
 #pos0 {
-    background: url('./Mountains.jpg');
+    background: url('./images/Mountains.jpg');
 }
 #pos1 {
-    background: url('./Mountains1.png');
+    background: url('./images/Mountains1.png');
 }
 #pos2 {
-    background: url('./Mountains2.png');
+    background: url('./images/Mountains2.png');
 }
 #pos3 {
-    background: url('./Mountains3.png');
+    background: url('./images/Mountains3.png');
 }
 #pos4 {
-    background: url('./Mountains4.png');
+    background: url('./images/Mountains4.png');
 }
 #pos5 {
-    background: url('./Mountains5.png');
+    background: url('./images/Mountains5.png');
 }
 
 .pos {
