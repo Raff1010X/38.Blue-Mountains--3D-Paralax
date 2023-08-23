@@ -12,6 +12,8 @@ My git repo: https://github.com/Raff1010X/01.Roadmap
 
 ## BUG
 
-When you reload the page images are shifted and mouse move event triggers multiple image downloads. 
+Sometimes after page reload images are shifted and white bockground is visible.
+
+Mouse move event triggers multiple images downloads. 
 
 You can see it in network tab in dev tools.
