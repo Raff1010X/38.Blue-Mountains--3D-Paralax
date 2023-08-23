@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+#pos0 {
+    background: url('./images/Mountains.jpg');
+}
+#pos1 {
+    background: url('./images/Mountains1.png');
+}
+#pos2 {
+    background: url('./images/Mountains2.png');
+}
+#pos3 {
+    background: url('./images/Mountains3.png');
+}
+#pos4 {
+    background: url('./images/Mountains4.png');
+}
+#pos5 {
+    background: url('./images/Mountains5.png');
+}
+
+.pos {
+    position: absolute;
+    height: 120vh;
+    width: 120vw;
+    background-size: cover !important;
+    background-repeat: no-repeat !important;
+    background-position: center center !important;
+}
+
+#p {
+    position: absolute;
+    top: 40vh;
+    left: 40vw;
+    width: 10vw;
+    height: 10vw;
+    border-radius: 10vw;
+    background-color: white;
+    box-shadow: 0px 0px 15px rgba(255, 235, 169, 1);
+}
